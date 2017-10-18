@@ -35,5 +35,9 @@
     "babelify": "^7.3.0",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/learn-co-curriculum/react-async-gif-search-lab/issues"
+  },
+  "homepage": "https://github.com/learn-co-curriculum/react-async-gif-search-lab#readme"
 }
